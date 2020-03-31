@@ -1,9 +1,6 @@
 [submodule "https://github.com/almAngel/sleepbox-ui/tree/master/Sleepbox%20API"]
 	path = https://github.com/almAngel/sleepbox-ui/tree/master/Sleepbox%20API
 	url = https://github.com/almAngel/sleepbox-api
-[submodule "sleepbox-ui"]
-	path = sleepbox-ui
-	url = https://github.com/almAngel/sleepbox-ui
 [submodule "sleepbox-api"]
 	path = sleepbox-api
 	url = https://github.com/almAngel/sleepbox-api
