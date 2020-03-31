@@ -43,3 +43,5 @@ def test_get_batch_document(self):
         self.assertEqual(type(doc), type(aux)) # Se comprueba si al realizar conversión obtenemos el mismo tipo
 ```
   Django ya viene con un paquete de herramientas de testeo.
+  
+  Esto nos permite un desarrollo más limpio desde primera hora y más ajustado a las necesidades del cliente.
