@@ -45,3 +45,4 @@ def test_get_batch_document(self):
   Django ya viene con un paquete de herramientas de testeo.
   
   Esto nos permite un desarrollo más limpio desde primera hora y más ajustado a las necesidades del cliente.
+  - Deploy del servidor realizado correctamente y funcionando (https://sleepbox-api.herokuapp.com)
