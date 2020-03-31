@@ -40,5 +40,5 @@ def test_get_batch_document(self):
         aux = Batch(**retrieved) # Convertimos el objeto recibido a tipo personalizado "Batch"
 
         # Assert (Comprobar resultados)
-        self.assertEqual(type(doc), type(aux)) # Se comprueba si al realizar conversión tenemos el mismo tipo
+        self.assertEqual(type(doc), type(aux)) # Se comprueba si al realizar conversión obtenemos el mismo tipo
 ```
