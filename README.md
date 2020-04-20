@@ -46,3 +46,9 @@ def test_get_batch_document(self):
   
   Esto nos permite un desarrollo más limpio desde primera hora y más ajustado a las necesidades del cliente.
   - Deploy del servidor realizado correctamente y funcionando (https://sleepbox-api.herokuapp.com)
+
+    
+  ### Semana 5 (20 abril - 24 abril)
+  - Se ha subido el repositorio de la interfaz de usuario para dispositivos móviles (carpeta Sleepbox Ion dentro de este repositorio)
+  - Se han añadido dos tabs: "stats" y "config"
+  - Añadiendo gráficos de datos en el tab de "stats", por ahora con información falsa
