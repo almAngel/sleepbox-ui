@@ -4,3 +4,6 @@
 [submodule "sleepbox-api"]
 	path = sleepbox-api
 	url = https://github.com/almAngel/sleepbox-api
+[submodule "sleepbox-ion"]
+	path = sleepbox-ion
+	url = https://github.com/almAngel/sleepbox-ion
